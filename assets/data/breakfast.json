@@ -1,0 +1,11 @@
+{
+    "breakfast":
+    [
+
+    {"nameOfFood": "egg", "priceOfFood": "$3", "caloriesInFood": "200"},
+    {"nameOfFood": "toast", "priceOfFood": "$1", "caloriesInFood":"100"},
+    {"nameOfFood": "juice", "priceOfFood": "$2", "caloriesInFood":"50"}
+
+
+    ]
+}
